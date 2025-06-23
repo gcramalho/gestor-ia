@@ -4,7 +4,6 @@
 
 ### Documentação
 - ✅ **README.md** - Documentação principal do projeto
-- ✅ **RESUMO_DOCUMENTACAO.md** - Resumo executivo
 - ✅ **ENTREGA_PROJETO.md** - Este arquivo
 
 ### Arquivos de Deploy
