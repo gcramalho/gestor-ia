@@ -1,4 +1,4 @@
-# ======== Sistema de Gestão de Agentes de IA ===========
+# ==== Sistema de Gestão Agentes de IA =====
 
 Plataforma completa para criar, configurar e gerenciar agentes de IA integrados com WhatsApp e outras plataformas de comunicação.
 
